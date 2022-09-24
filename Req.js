@@ -1,6 +1,6 @@
 const axios = require("axios").default;
 const SendPost = async () => {
-  let response = await axios.post("http://localhost:8080/hello", {
+  let response = await axios.post("http://localhost:8080/getBooks", {
     ISBN: "9789577627124",
   });
 

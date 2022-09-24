@@ -12,7 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
     "express": "^4.18.1",
-    "puppeteer": "^18.0.3"
+    "pretty": "^2.0.0",
+    "puppeteer": "^18.0.3",
+    "qs": "^6.11.0"
   }
 }
